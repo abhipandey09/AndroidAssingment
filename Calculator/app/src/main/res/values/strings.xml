@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="field_1">Field 1</string>
+    <string name="field_2">Field 2</string>
+    <string name="Mode">Mode</string>
+    <string name="Calculate">Calculate</string>
+    <string name="Result">Result</string>
+</resources>
