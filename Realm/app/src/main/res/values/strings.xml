@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Realm</string>
+    <string name="enter_details">Enter Details</string>
+    <string name="Enter_name">Enter name</string>
+    <string name="Gender">Gender</string>
+    <string name="Roll_no">Roll No.</string>
+    <string name="Dept">Dept</string>
+    <string name="Phone">Phone</string>
+    <string name="Name">Name</string>
+</resources>
